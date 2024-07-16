@@ -5,3 +5,4 @@ yfinance
 pandas-datareader
 prophet
 numpy==1.26.4
+statsmodels
