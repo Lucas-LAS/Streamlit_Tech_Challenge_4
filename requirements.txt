@@ -4,5 +4,4 @@ streamlit
 yfinance
 pandas-datareader
 prophet
-statsmodels
-joblib
+numpy==1.26.4
