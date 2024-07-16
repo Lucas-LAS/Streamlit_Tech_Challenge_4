@@ -503,7 +503,7 @@ if  sidebar_option == "Modelo de Previsão":
   
 
   
-    df = pd.read_csv('Data\\previsao.csv')
+    df = pd.read_csv('previsao.csv')
     df['ds'] = pd.to_datetime(df['ds'])
     st.write(df.head())
 
