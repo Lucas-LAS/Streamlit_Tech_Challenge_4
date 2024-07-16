@@ -109,7 +109,7 @@ if  sidebar_option == "História Sobre o Preço":
 
     st.title("História Sobre o Preço")
     st.markdown("<a id='História Sobre o Preço'></a>", unsafe_allow_html=True)
-    st.write("Use o menu superior ou a barra lateral para navegar entre as diferentes visualizações de dados.")
+
     st.markdown("""
         ### Introdução
         
