@@ -577,7 +577,7 @@ with st.sidebar:
         st.subheader("Repositórios do projeto")
         st.link_button(
             "Repositório Streamlit",
-            "",
+            "https://github.com/Lucas-LAS/Streamlit_Tech_Challenge_4",
             help=None,
             type="secondary",
             disabled=False,
@@ -585,7 +585,7 @@ with st.sidebar:
         )
         st.link_button(
             "Repositório Jupyter Notebook",
-            "",
+            "https://github.com/Lucas-LAS/Tech_Challenge_4_Notebook/blob/main/Tech_Challenge4.ipynb",
             help=None,
             type="secondary",
             disabled=False,
