@@ -497,7 +497,7 @@ if  sidebar_option == "Modelo de Previsão":
     """)
 
     # Carregar o modelo Prophet salvo
-    model_path = 'Modelo\\prophet_modelo.joblib'  # Altere para o caminho do seu modelo salvo
+    model_path = 'https://github.com/Lucas-LAS/Streamlit_Tech_Challenge_4/tree/main/Modelo/prophet_modelo.joblib'  # Altere para o caminho do seu modelo salvo
     model = joblib.load(model_path)
 
   
